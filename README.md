@@ -1,3 +1,4 @@
 # setup-chatsasa-widget
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-51y37k)
+This is a sample demonstration to guide a developer on 
+how to add ChatSasa LiveChat Widget to a website or webapp
